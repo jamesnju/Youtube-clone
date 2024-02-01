@@ -1,0 +1,6 @@
+.centerside{
+    height: 20rem;
+    width: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

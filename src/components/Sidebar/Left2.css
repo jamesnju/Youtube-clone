@@ -1,0 +1,24 @@
+.leftnav{
+    background-color: gainsboro;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.items{
+    display: block;
+    text-align: left;
+    width: 100%;
+    justify-content: start;
+    left: 0;
+}
+.custom-toggle {
+
+    order: -1;
+    margin-right: 15px; /* Adjust the margin as needed */
+}
+.navbar-toggler {
+    order: -1;
+  }

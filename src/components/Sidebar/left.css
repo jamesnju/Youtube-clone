@@ -1,0 +1,13 @@
+.hiddentoggle{
+    height: 100vh;
+    gap: 2rem;
+}
+.hiddentoggle>a{
+    font-size: 15px;
+    margin-top: 2rem;
+
+}
+.rightside{
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

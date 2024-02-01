@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.home{
+    display: flex;
+    width: 90%;
+    height: 100vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    top: 0;
+}
